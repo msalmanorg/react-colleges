@@ -1,0 +1,20 @@
+.under-dev-component {
+    width: 100%;
+    min-height: 100vh;
+    padding: 50px 200px;
+}
+
+.under-dev-component a {
+    margin: 40px 0 0 0;
+    display: block;
+    font-size: 20px;
+    padding: 10px 20px;
+    border: 1px solid;
+    border-radius: 5px;
+    text-align: center;
+    transition: all 0.3s ease;
+}
+.under-dev-component a:hover {
+    background-color: var(--secondary);
+    color: white;
+}
